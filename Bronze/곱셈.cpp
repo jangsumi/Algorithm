@@ -12,8 +12,6 @@ int main(){
     num2_10 = (num2/10) % 10;
     num2_100 = (num2/100) % 10;
 
-    //cout << num2_1 << " " << num2_10 << " " << num2_100 << endl;
-
     num3 = num1 * num2_1;
     num4 = num1 * num2_10;
     num5 = num1 * num2_100;
