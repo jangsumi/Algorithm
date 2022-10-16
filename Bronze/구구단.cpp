@@ -9,6 +9,3 @@ int main(){
         cout << num << " * " << i << " = " << num*i << endl;
     }
 }
-
-
-// 2 * 1 = 2
